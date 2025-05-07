@@ -71,4 +71,4 @@ Check here or on [Brightspace](https://brightspace.ccc.edu) for the latest cours
 ---
 
 ## Year
-- [Summer 2025](/2025/Summer)
+- [Summer 2025](/2025/Summer/)
