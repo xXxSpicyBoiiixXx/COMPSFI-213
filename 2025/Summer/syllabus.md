@@ -16,5 +16,5 @@
 
 ## Grading
 - Labs: 40%
-- Homework: 30%
-- Final Project: 30%
+- Homework: 30% 
+- Final: 30%
