@@ -10,7 +10,7 @@ This is the official course page for COMPSFI 213 at City Colleges of Chicago. In
 
 ---
 
-## 📌 Course Overview
+## Course Overview
 
 - Learn how to ethically discover, exploit, and report vulnerabilities.
 - Use industry tools such as Nmap, Wireshark, Metasploit, Burp Suite, and more.
@@ -38,8 +38,6 @@ By the end of this course, students will be able to:
 Email: mali220@ccc.edu  
 Office Hours: By appointment / Virtual drop-ins via Zoom
 
-## Weekly Topics & Schedule
-
 ## Materials
 
 - [HTB Academy Course Link](https://academy.hackthebox.com/)
@@ -60,8 +58,6 @@ Late work may be accepted with prior approval.
 
 ---
 
-## Grading Breakdown
-
 ## Academic Integrity
 
 Ethical behavior is the foundation of cybersecurity. Plagiarism, unauthorized collaboration, or malicious activity will result in academic discipline. Respect lab boundaries and only test in designated environments.
@@ -75,8 +71,5 @@ Check here or on [Brightspace](https://brightspace.ccc.edu) for the latest cours
 ---
 
 ## Year
-- [2025](/2025)
-- [2026](/2026)
-
-
-
+- [2025](./2025)
+- [2026](./2026)
